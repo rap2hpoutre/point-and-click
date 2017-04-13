@@ -1,0 +1,7 @@
+[package]
+name = "point-and-click"
+version = "0.1.0"
+authors = ["rap2h <raphaelht@gmail.com>"]
+
+[dependencies]
+piston_window = "0.61.0"
